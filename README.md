@@ -2,6 +2,7 @@
 
 ## Overview
 This project involves implementing the classic Pepse game in Java, as part of an exercise for the Object-Oriented Programming (OOP) course.
+The game I developed is an open-world, procedurally generated environment that allows players to interact with dynamic elements such as the sky, terrain, and trees. It features an immersive world where objects respond to player actions, creating a rich and engaging experience. Key components include static and dynamic objects, like trees with moving leaves and terrain-forming blocks. The game’s architecture is built using object-oriented programming principles, ensuring modularity and scalability, which highlights my skills in creating flexible and reusable code for complex systems.
 
 ## Features
 - **Player Controls:** Use the arrow keys to run and the space button to jump.
