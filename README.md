@@ -17,3 +17,16 @@ Pepse Game is a Java-based game where the player controls a gimmick that can run
 2. Press the space button to make the gimmick jump.
 3. Manage the gimmick's energy by standing still or eating fruits to avoid running out of energy.
 4. Stay within the screen bounds to avoid losing the game.
+
+## Contributions
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any questions or support, please open an issue on the GitHub repository or contact the project maintainer.
+
+
+
+  
